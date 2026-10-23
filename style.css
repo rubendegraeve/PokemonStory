@@ -1,0 +1,33 @@
+
+ {
+	font-family: verdana;
+}
+a:any-link {
+	text-decoration-line: none;
+	color: black;
+}
+body {
+	max-width: 980px;
+	margin-left: auto;
+	margin-right: auto;
+}
+body#background {
+	background-image: url("img/001.png");
+	background-position: center;
+	background-repeat: no-repeat;
+}
+#banner {
+	width: 100%;
+}
+
+.rechthoek {
+  width:300px;
+  height:20px;
+  border:1px solid black;
+  
+}
+
+.geel{
+    background-color: rgb(247,218,92);
+ 
+}
